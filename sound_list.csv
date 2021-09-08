@@ -1,4 +1,4 @@
-"0.ogg";"*Startup sound*"
+"0.ogg";"Startup sound"
 "1.ogg";"Waiting for the network configuration."
 "2.ogg";"Unable to connect to the wifi network. Please check wifi password and try again later."
 "3.ogg";"Unable to connect to the server. Please check your local network and try again later."
@@ -152,4 +152,4 @@
 "155.ogg";"Start to return to the charging and the mop cleaning dock."
 "156.ogg";"Mop pad tray uninstalled."
 "157.ogg";"Am already at the charging and the mop cleaning dock."
-"200.ogg";"*Shutdown sound*"
+"200.ogg";"Shutdown sound"
